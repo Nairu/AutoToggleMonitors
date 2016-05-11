@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AutoToggleDisplaysCPP.cpp
+  NativeFunctionCalls.cpp
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AutoToggleDisplaysCPP.vcxproj -> c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplaysCPP\Release\AutoToggleDisplaysCPP.exe
