@@ -1,0 +1,5 @@
+c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplays\AutoToggleDisplays\bin\Debug\AutoToggleDisplays.exe.config
+c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplays\AutoToggleDisplays\bin\Debug\AutoToggleDisplays.exe
+c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplays\AutoToggleDisplays\bin\Debug\AutoToggleDisplays.pdb
+c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplays\AutoToggleDisplays\obj\Debug\AutoToggleDisplays.exe
+c:\users\livingroom\documents\visual studio 2015\Projects\AutoToggleDisplays\AutoToggleDisplays\obj\Debug\AutoToggleDisplays.pdb
